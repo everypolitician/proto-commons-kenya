@@ -1,0 +1,96 @@
+SELECT ?statement
+       ?item ?name_en ?name_sw
+       ?party ?party_name_en ?party_name_sw
+       ?district ?district_name_en ?district_name_sw
+       ?role ?role_en ?role_sw
+       ?role_superclass ?role_superclass_en ?role_superclass_sw
+       ?start ?end ?facebook
+       ?org ?org_en ?org_sw ?org_jurisdiction ?org_seat_count
+WHERE {
+  BIND(wd:Q17510786 as ?role) .
+  BIND(wd:Q1701225 as ?org) .
+  OPTIONAL {
+  ?org rdfs:label ?org_en
+  FILTER(LANG(?org_en) = "en")
+}
+
+OPTIONAL {
+  ?org rdfs:label ?org_sw
+  FILTER(LANG(?org_sw) = "sw")
+}
+
+  OPTIONAL {
+    ?org wdt:P1001 ?org_jurisdiction
+  }
+  OPTIONAL {
+    ?org wdt:P1342 ?org_seat_count
+  }
+  ?item wdt:P31 wd:Q5 ;
+        p:P39 ?statement .
+  OPTIONAL {
+  ?item rdfs:label ?name_en
+  FILTER(LANG(?name_en) = "en")
+}
+
+OPTIONAL {
+  ?item rdfs:label ?name_sw
+  FILTER(LANG(?name_sw) = "sw")
+}
+
+  ?statement ps:P39 ?role .
+  OPTIONAL {
+  ?role rdfs:label ?role_en
+  FILTER(LANG(?role_en) = "en")
+}
+
+OPTIONAL {
+  ?role rdfs:label ?role_sw
+  FILTER(LANG(?role_sw) = "sw")
+}
+
+  OPTIONAL {
+    ?role wdt:P279 ?role_superclass .
+    ?role_superclass wdt:P279+ wd:Q4175034
+    OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_en
+  FILTER(LANG(?role_superclass_en) = "en")
+}
+
+OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_sw
+  FILTER(LANG(?role_superclass_sw) = "sw")
+}
+
+  }
+  ?statement pq:P2937 wd:Q47486410 .
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  OPTIONAL {
+    ?statement pq:P768 ?district.
+    OPTIONAL {
+  ?district rdfs:label ?district_name_en
+  FILTER(LANG(?district_name_en) = "en")
+}
+
+OPTIONAL {
+  ?district rdfs:label ?district_name_sw
+  FILTER(LANG(?district_name_sw) = "sw")
+}
+
+  }
+  OPTIONAL {
+    ?statement pq:P4100 ?party.
+    OPTIONAL {
+  ?party rdfs:label ?party_name_en
+  FILTER(LANG(?party_name_en) = "en")
+}
+
+OPTIONAL {
+  ?party rdfs:label ?party_name_sw
+  FILTER(LANG(?party_name_sw) = "sw")
+}
+
+  }
+  OPTIONAL { ?item wdt:P2013 ?facebook }
+  
+} ORDER BY ?item ?role ?term ?start ?end
