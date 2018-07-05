@@ -1,0 +1,2196 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Mohamed Yusuf Haji"
+      },
+      "id": "Q1030776",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1030776"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Samuel Poghisio"
+      },
+      "id": "Q16734594",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16734594"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Isaac Mwaura"
+      },
+      "id": "Q20744564",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20744564"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Moses Otieno Kajwang"
+      },
+      "id": "Q27893074",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27893074"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Irungu Kang'ata"
+      },
+      "id": "Q28113009",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28113009"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sakaja Johnson"
+      },
+      "id": "Q28967580",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28967580"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kipchumba Murkomen"
+      },
+      "id": "Q46556896",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q46556896"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sam Ongeri",
+        "lang:sw": "Sam Ongeri"
+      },
+      "id": "Q4705081",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4705081"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohamed Maalim Mahamud"
+      },
+      "id": "Q47514796",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514796"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Kinyua Nderitu"
+      },
+      "id": "Q47514797",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514797"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sitswila Amos Wako"
+      },
+      "id": "Q47514798",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514798"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kithure Kindiki A K"
+      },
+      "id": "Q47514805",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514805"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Phillip Salau Mpaayei"
+      },
+      "id": "Q47514806",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514806"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Cherarkey K Samson"
+      },
+      "id": "Q47514820",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514820"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abdullahi Ibrahim Ali"
+      },
+      "id": "Q47514825",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514825"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Golich Juma Wario"
+      },
+      "id": "Q47514830",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514830"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ben Oluoch Okello"
+      },
+      "id": "Q47514837",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514837"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Charles Reubenson Kibiru"
+      },
+      "id": "Q47514851",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514851"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Maling'a Mbito"
+      },
+      "id": "Q47514852",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514852"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dullo Fatuma Adan"
+      },
+      "id": "Q47514853",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514853"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aaron Kipkirui Cheruiyot"
+      },
+      "id": "Q47514855",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514855"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Eng Ephraim Mwangi Maina Kirinyaga"
+      },
+      "id": "Q47514859",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514859"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Susan Wakarura Kihika"
+      },
+      "id": "Q47514871",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514871"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Issa Juma Boy"
+      },
+      "id": "Q47514874",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514874"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paul Githiomi Mwangi"
+      },
+      "id": "Q47514875",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514875"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Johnes Mwashushe Mwaruma"
+      },
+      "id": "Q47514877",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514877"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Malachy Charles Ekal Imana"
+      },
+      "id": "Q47514883",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514883"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fredrick Otieno Outa"
+      },
+      "id": "Q47514887",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514887"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Wamatangi Paul Kimani"
+      },
+      "id": "Q47514897",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514897"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Enoch Kiio Wambua"
+      },
+      "id": "Q47514898",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514898"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Boniface Mutinda Kabaka"
+      },
+      "id": "Q47514903",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514903"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Stewart Mwachiru Shadrack Madzayo"
+      },
+      "id": "Q47514905",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514905"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gideon Kipsielei Towett Moi"
+      },
+      "id": "Q47514907",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514907"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mutula Kilonzo Junior"
+      },
+      "id": "Q47514909",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514909"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Cleophas Wakhungu Malalah"
+      },
+      "id": "Q47514910",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514910"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Christopher Andrew Langat"
+      },
+      "id": "Q47514911",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514911"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Steve Ltumbesi Lelegwe"
+      },
+      "id": "Q47514912",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514912"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Godana Hargura"
+      },
+      "id": "Q47514914",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47514914"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mercy Chebeni"
+      },
+      "id": "Q47516257",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516257"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Christine Zawadi Gona"
+      },
+      "id": "Q47516259",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516259"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Farhiya Ali Haji"
+      },
+      "id": "Q47516260",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516260"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Abshiro Soka Halake"
+      },
+      "id": "Q47516261",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516261"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Falhada Dekow Iman"
+      },
+      "id": "Q47516262",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516262"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Getrude Musuruve Inimah"
+      },
+      "id": "Q47516263",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516263"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sylvia Mueni Kasanga"
+      },
+      "id": "Q47516265",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516265"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Anuar Loitiptip"
+      },
+      "id": "Q47516266",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516266"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Petronila Were Lokorio"
+      },
+      "id": "Q47516267",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516267"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Beatrice Kwamboka Makori"
+      },
+      "id": "Q47516268",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516268"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Naomi Shiyonga Masitsa"
+      },
+      "id": "Q47516269",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516269"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alice Chepkorir Milgo"
+      },
+      "id": "Q47516271",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516271"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Erick Okong'o Mogeni"
+      },
+      "id": "Q47516272",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516272"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Haji Mohamed Mwinyi"
+      },
+      "id": "Q47516273",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516273"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rose Ogendo Nyamunga"
+      },
+      "id": "Q47516274",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516274"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Millicent Omanga"
+      },
+      "id": "Q47516275",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516275"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Judith Ramaita Pareno"
+      },
+      "id": "Q47516276",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516276"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Victor Prengei"
+      },
+      "id": "Q47516277",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516277"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mary Yiane Seneta"
+      },
+      "id": "Q47516278",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516278"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Naomi Jilo Waqo"
+      },
+      "id": "Q47516279",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516279"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Agnes Philomena Zani"
+      },
+      "id": "Q47516280",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47516280"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Beth Wambui Mugo",
+        "lang:sw": "Beth Mugo"
+      },
+      "id": "Q4897658",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4897658"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Franklin Linturi"
+      },
+      "id": "Q5491660",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5491660"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "George Khaniri"
+      },
+      "id": "Q5541326",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5541326"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Moses Wetangula",
+        "lang:sw": "Moses Wetangula"
+      },
+      "id": "Q58188",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58188"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Orengo",
+        "lang:sw": "James Orengo"
+      },
+      "id": "Q6140639",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6140639"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Margaret Kamar"
+      },
+      "id": "Q6759579",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6759579"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Olekina Ledama"
+      },
+      "id": "Q7086213",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7086213"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Njeru Ndwiga"
+      },
+      "id": "Q7176116",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7176116"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Senate"
+      },
+      "id": "Q6978858",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6978858"
+        }
+      ],
+      "area_id": "Q114",
+      "seat_counts": {
+        "Q18555726": "67"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Kenya African National Union",
+        "lang:sw": "Kenya African National Union"
+      },
+      "id": "Q1422517",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1422517"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Orange Democratic Movement",
+        "lang:sw": "Orange Democratic Movement"
+      },
+      "id": "Q1640905",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1640905"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jubilee Party of Kenya"
+      },
+      "id": "Q27963537",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27963537"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "independent politician"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Amani National Congress"
+      },
+      "id": "Q47489380",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47489380"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Chama Cha Uzalendo"
+      },
+      "id": "Q5069325",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5069325"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Wiper Democratic Movement",
+        "lang:sw": "ODM-Kenya"
+      },
+      "id": "Q5251223",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5251223"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Forum for the Restoration of Democracy – Kenya",
+        "lang:sw": "FORD-Kenya"
+      },
+      "id": "Q5473121",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5473121"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Party of Development and Reforms"
+      },
+      "id": "Q7141057",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7141057"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1030776-65C78795-F1DA-499B-8FFC-2ACA21BDE908",
+      "person_id": "Q1030776",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q1494292",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16734594-37422BA5-CBCB-46D3-B0EF-FFBEB38C0B65",
+      "person_id": "Q16734594",
+      "on_behalf_of_id": "Q1422517",
+      "organization_id": "Q6978858",
+      "area_id": "Q590860",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20744564-0C593930-51E3-40FC-9B39-DA444D499C90",
+      "person_id": "Q20744564",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27893074-67C784AD-4A9E-4A39-8339-AFE968289085",
+      "person_id": "Q27893074",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "area_id": "Q1625834",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28113009-AB1F31F0-252B-4012-943B-EFEC1F63375B",
+      "person_id": "Q28113009",
+      "organization_id": "Q6978858",
+      "area_id": "Q1781723",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28967580-118952CE-3523-4637-A1DB-AD755BBFE15F",
+      "person_id": "Q28967580",
+      "organization_id": "Q6978858",
+      "area_id": "Q3335223",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q46556896-5275EF1E-3F74-4323-B432-7AD007470160",
+      "person_id": "Q46556896",
+      "organization_id": "Q6978858",
+      "area_id": "Q15216433",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4705081-50B45E23-7220-4ED3-8DFE-6AE85B5F8F5F",
+      "person_id": "Q4705081",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "area_id": "Q1743730",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514796-6684A930-B62E-4D81-A61E-2CA72E96FEDD",
+      "person_id": "Q47514796",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q1477874",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514797-0924B44A-D123-4D4A-84CF-B756D7AEE423",
+      "person_id": "Q47514797",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q1800699",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514798-D402A5E9-5ADE-454F-999E-99C427FD91F2",
+      "person_id": "Q47514798",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "area_id": "Q1017519",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514805-A00BDDAB-8757-461C-80C7-B4FAEEAE7F3E",
+      "person_id": "Q47514805",
+      "organization_id": "Q6978858",
+      "area_id": "Q2189432",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514806-6DB1AE14-0B2D-49BF-8FDA-672711CDECFD",
+      "person_id": "Q47514806",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q285072",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514820-3B2CEBC5-E5DE-48DD-947C-ECF1ECB6752A",
+      "person_id": "Q47514820",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q1964569",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514825-E9788FA0-CB49-4D7B-89E4-6ECE4318CDF5",
+      "person_id": "Q47514825",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q1852209",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514830-BC638DA8-AB8C-47B9-BAE4-8C3F36C1377D",
+      "person_id": "Q47514830",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q383150",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514837-26184409-2FAF-4ECB-9BC8-2DCC19F561F7",
+      "person_id": "Q47514837",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "area_id": "Q429955",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514851-B8679DBA-F9D1-4D89-95BA-6762FFEFC525",
+      "person_id": "Q47514851",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q6978858",
+      "area_id": "Q2230311",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514852-15171436-143A-499D-99FE-A9C34AAB3EF4",
+      "person_id": "Q47514852",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q1278653",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514853-807535FD-6903-488F-BB60-1D123692D6B0",
+      "person_id": "Q47514853",
+      "on_behalf_of_id": "Q7141057",
+      "organization_id": "Q6978858",
+      "area_id": "Q1499046",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514855-9CCFD9DF-3E90-4853-8DFF-D252F5A23281",
+      "person_id": "Q47514855",
+      "organization_id": "Q6978858",
+      "area_id": "Q1739252",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514859-E6F11C77-5606-47AE-BA9A-CD13AC481D87",
+      "person_id": "Q47514859",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q749665",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514871-2714FE22-84B6-49EB-B545-F9BB8AFBE479",
+      "person_id": "Q47514871",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q1852202",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514874-93B09DA9-0037-4E77-A9C4-76EF1E0FBF3B",
+      "person_id": "Q47514874",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "area_id": "Q952571",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514875-E328AA16-41BF-4344-B1E2-48859D642EE6",
+      "person_id": "Q47514875",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q1714352",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514877-F7579B6B-E21A-481F-A876-37F60C7B7C56",
+      "person_id": "Q47514877",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "area_id": "Q7193788",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514883-95E86402-70C7-4778-9741-18F363611FF9",
+      "person_id": "Q47514883",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "area_id": "Q1633078",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514887-632F0722-284F-4035-9E29-DA3768E0D289",
+      "person_id": "Q47514887",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "area_id": "Q1743809",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514897-D7B64FAE-D084-4CC0-B8BE-BEB6EA42A6C7",
+      "person_id": "Q47514897",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q2575594",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514898-C21942E5-D235-41D0-8952-F56323F8B316",
+      "person_id": "Q47514898",
+      "on_behalf_of_id": "Q5251223",
+      "organization_id": "Q6978858",
+      "area_id": "Q1722597",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514903-87B62F40-EC35-4377-8301-07E6E1734C8D",
+      "person_id": "Q47514903",
+      "on_behalf_of_id": "Q5069325",
+      "organization_id": "Q6978858",
+      "area_id": "Q1882639",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514905-9821F299-9138-40A5-8888-BF1D90CC3DB5",
+      "person_id": "Q47514905",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "area_id": "Q1741307",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514907-5F9BE542-5E83-42CF-B0B2-44E078926296",
+      "person_id": "Q47514907",
+      "on_behalf_of_id": "Q1422517",
+      "organization_id": "Q6978858",
+      "area_id": "Q808201",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514909-5971B773-DDFF-43FA-8872-DAFA183AE8D8",
+      "person_id": "Q47514909",
+      "on_behalf_of_id": "Q5251223",
+      "organization_id": "Q6978858",
+      "area_id": "Q473717",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514910-3990CF06-A19C-4C50-84AD-5CBF5D28A59B",
+      "person_id": "Q47514910",
+      "on_behalf_of_id": "Q47489380",
+      "organization_id": "Q6978858",
+      "area_id": "Q1721867",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514911-765DA244-C419-4F08-A6E7-396C8B384AB0",
+      "person_id": "Q47514911",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q891952",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514912-564B21C3-FCD2-47B4-B9DF-27DC587B583E",
+      "person_id": "Q47514912",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q2096419",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47514914-86E9B8D5-865E-4E4F-BCBA-853F9E66710A",
+      "person_id": "Q47514914",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q1323683",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516257-B3A5C827-69EC-4B1E-ACE7-324FBF30F730",
+      "person_id": "Q47516257",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516259-34972615-CD50-4A5B-BF68-4A8230F88BE0",
+      "person_id": "Q47516259",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516260-8BBC4901-2529-4C39-89BD-88E5E9B4C348",
+      "person_id": "Q47516260",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516261-A5A94F85-991E-4D0C-81A8-4C0D7147BAB4",
+      "person_id": "Q47516261",
+      "on_behalf_of_id": "Q1422517",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516262-1AE43F87-C6F0-4C31-8F43-C6F67937648A",
+      "person_id": "Q47516262",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516263-6A2B2202-B740-483B-8CE3-2FA4D258C6C7",
+      "person_id": "Q47516263",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516265-6659EE51-831D-44BA-8129-12A4B99583BC",
+      "person_id": "Q47516265",
+      "on_behalf_of_id": "Q5251223",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516266-C4791A5B-4519-4F6C-88A1-DB31C9994E52",
+      "person_id": "Q47516266",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q1951652",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516267-26DBCF6E-ECE2-472C-8436-83DD13EDA9BE",
+      "person_id": "Q47516267",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516268-EA0C9290-B39E-43F1-ADD7-0AC4BC4CDF8E",
+      "person_id": "Q47516268",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516269-CDE1EBCE-3297-4DEA-B58B-8D8CB9FB63B0",
+      "person_id": "Q47516269",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516271-DF406A7D-10C9-44F5-905A-95698C676FC7",
+      "person_id": "Q47516271",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516272-3F99E196-7DE7-4AE5-9CF9-AB1822AF3511",
+      "person_id": "Q47516272",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "area_id": "Q1569613",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516273-2C9E884E-8D6C-4E6A-9135-FB551A1A2103",
+      "person_id": "Q47516273",
+      "organization_id": "Q6978858",
+      "area_id": "Q1112885",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516274-EC8C58C8-662C-47FB-99D7-DFA7A80D520C",
+      "person_id": "Q47516274",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516275-8F86B767-4730-410B-98A2-E591F36FD93D",
+      "person_id": "Q47516275",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516276-FBEF8655-8890-4DB1-BC9A-B9C08322E6A7",
+      "person_id": "Q47516276",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516277-5D97E5AB-B5B4-4A22-A238-221776FF3EAC",
+      "person_id": "Q47516277",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516278-8BAB31CC-F432-400E-BFB9-E30C1EE1D865",
+      "person_id": "Q47516278",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516279-A145A760-31CD-4E08-AC43-3C49C7339CF5",
+      "person_id": "Q47516279",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47516280-A5F87E60-2F3E-45C7-ABA2-93E01287804A",
+      "person_id": "Q47516280",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4897658-64E9053E-EAFF-4077-8242-40BC87885CD8",
+      "person_id": "Q4897658",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5491660-1AB14D42-1FAE-43DE-8792-B3C455A393C3",
+      "person_id": "Q5491660",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q15045704",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5541326-EBEBCC34-CDDF-4AB5-A344-1B46651FCA62",
+      "person_id": "Q5541326",
+      "organization_id": "Q6978858",
+      "area_id": "Q1313202",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58188-2BFF6FBA-A5BD-4F41-91AE-FFBC65B7243D",
+      "person_id": "Q58188",
+      "on_behalf_of_id": "Q5473121",
+      "organization_id": "Q6978858",
+      "area_id": "Q2928204",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6140639-5489968E-7D5A-4D64-BE76-9D92B31BD740",
+      "person_id": "Q6140639",
+      "organization_id": "Q6978858",
+      "area_id": "Q3482913",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6759579-CBBDC491-A27D-4538-A2BA-943FD3138F88",
+      "person_id": "Q6759579",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q1121429",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7086213-52195439-0190-4506-83C6-B88388F0B136",
+      "person_id": "Q7086213",
+      "on_behalf_of_id": "Q1640905",
+      "organization_id": "Q6978858",
+      "area_id": "Q1852220",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7176116-8C9F2D94-DDCA-4F8B-8B48-DD783B7ED13D",
+      "person_id": "Q7176116",
+      "on_behalf_of_id": "Q27963537",
+      "organization_id": "Q6978858",
+      "area_id": "Q1335242",
+      "start_date": "2017-08-31",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator"
+      },
+      "role_code": "Q18555726",
+      "role": {
+        "lang:en": "Member of the Senate of Kenya"
+      }
+    }
+  ]
+}
