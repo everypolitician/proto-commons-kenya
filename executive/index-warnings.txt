@@ -1,0 +1,7 @@
+WARNING: no executive for President of Kenya (Q14784066) in Kenya (Q114)
+WARNING: no executive for Prime Minister of Kenya (Q2736951) in Kenya (Q114)
+WARNING: no head of government position for Bungoma (Q33225335)
+WARNING: no head of government position for Nandi (Q33225417)
+WARNING: no head of government position for Mombasa (Q225641)
+WARNING: no head of government position for Nakuru (Q239421)
+WARNING: no head of government position for Nairobi (Q3870)
