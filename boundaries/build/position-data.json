@@ -1,0 +1,36 @@
+[
+  {
+    "role_id": "Q17510786",
+    "role_name": {
+      "lang:en": "Member of the National Assembly"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q1701225",
+    "organization_name": {
+      "lang:en": "National Assembly",
+      "lang:sw": "Bunge la Taifa la Kenya"
+    }
+  },
+  {
+    "role_id": "Q18555726",
+    "role_name": {
+      "lang:en": "Member of the Senate of Kenya"
+    },
+    "generic_role_id": "Q15686806",
+    "generic_role_name": {
+      "lang:en": "senator"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q6978858",
+    "organization_name": {
+      "lang:en": "Senate",
+      "lang:sw": "Seneti ya Kenya"
+    }
+  }
+]
