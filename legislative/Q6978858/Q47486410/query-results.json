@@ -62,6 +62,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -102,12 +107,12 @@
       "district_name_sw" : {
         "xml:lang" : "sw",
         "type" : "literal",
-        "value" : "Wilaya ya Pokot Magharibi"
+        "value" : "Kaunti ya Pokot Magharibi"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "West Pokot District"
+        "value" : "West Pokot County"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -139,6 +144,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -199,6 +209,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -278,6 +293,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -352,6 +372,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -416,6 +441,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -479,6 +509,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -557,6 +592,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -646,6 +686,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -723,6 +768,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -802,6 +852,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -875,6 +930,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -954,6 +1014,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1031,6 +1096,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -1110,6 +1180,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1188,6 +1263,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1265,6 +1345,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -1349,6 +1434,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1426,6 +1516,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -1505,6 +1600,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1573,6 +1673,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -1652,6 +1757,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1730,6 +1840,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1807,6 +1922,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -1891,6 +2011,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1968,6 +2093,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -2052,6 +2182,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2134,6 +2269,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -2218,6 +2358,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2295,6 +2440,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -2379,6 +2529,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2456,6 +2611,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -2540,6 +2700,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2622,6 +2787,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -2706,6 +2876,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2783,6 +2958,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -2862,6 +3042,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2940,6 +3125,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3004,6 +3194,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3063,6 +3258,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -3128,6 +3328,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3191,6 +3396,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -3261,6 +3471,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3324,6 +3539,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -3393,6 +3613,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -3477,6 +3702,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3531,6 +3761,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -3595,6 +3830,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -3665,6 +3905,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3733,6 +3978,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -3812,6 +4062,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3886,6 +4141,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3950,6 +4210,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4010,6 +4275,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4064,6 +4334,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -4129,6 +4404,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4192,6 +4472,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -4257,6 +4542,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4311,6 +4601,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -4375,6 +4670,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -4459,6 +4759,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4528,6 +4833,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4596,6 +4906,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -4680,6 +4995,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4757,6 +5077,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",
@@ -4841,6 +5166,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
       },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4918,6 +5248,11 @@
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6978858"
+      },
+      "org_sw" : {
+        "xml:lang" : "sw",
+        "type" : "literal",
+        "value" : "Seneti ya Kenya"
       },
       "org_en" : {
         "xml:lang" : "en",

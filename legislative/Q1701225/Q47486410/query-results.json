@@ -4609,7 +4609,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "West Pokot District"
+        "value" : "West Pokot County"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4669,7 +4669,7 @@
       "district_name_sw" : {
         "xml:lang" : "sw",
         "type" : "literal",
-        "value" : "Wilaya ya Pokot Magharibi"
+        "value" : "Kaunti ya Pokot Magharibi"
       }
     }, {
       "party" : {

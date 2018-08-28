@@ -1013,7 +1013,8 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "Senate"
+        "lang:en": "Senate",
+        "lang:sw": "Seneti ya Kenya"
       },
       "id": "Q6978858",
       "classification": "branch",

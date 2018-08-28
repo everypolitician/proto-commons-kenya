@@ -54,7 +54,7 @@ WARNING: the district Trans-Nzoia District (Q1278653) wasn't found in the bounda
 WARNING: the district Turkana County (Q1633078) wasn't found in the boundary data for position Member of the National Assembly (Q17510786)
 WARNING: the district Uasin Gishu District (Q1121429) wasn't found in the boundary data for position Member of the National Assembly (Q17510786)
 WARNING: the district Vihiga District (Q1313202) wasn't found in the boundary data for position Member of the National Assembly (Q17510786)
-WARNING: the district West Pokot District (Q590860) wasn't found in the boundary data for position Member of the National Assembly (Q17510786)
+WARNING: the district West Pokot County (Q590860) wasn't found in the boundary data for position Member of the National Assembly (Q17510786)
 WARNING: the district Webuye East Constituency (Q47463465) wasn't found in the boundary data for position Member of the National Assembly (Q17510786)
 WARNING: the district Kilgoris Constituency (Q6406874) wasn't found in the boundary data for position Member of the National Assembly (Q17510786)
 WARNING: the district Kapenguria Constituency (Q13640987) wasn't found in the boundary data for position Member of the National Assembly (Q17510786)
@@ -326,7 +326,7 @@ WARNING: the district Kisumu Town West Constituency (Q6417350) wasn't found in t
 WARNING: the district Machakos Town Constituency (Q13123147) wasn't found in the boundary data for position Member of the National Assembly (Q17510786)
 WARNING: Position Member of the Senate of Kenya (Q18555726) not in boundary associated_wikidata_positions
 WARNING: the district Garissa County (Q1494292) wasn't found in the boundary data for position Member of the Senate of Kenya (Q18555726)
-WARNING: the district West Pokot District (Q590860) wasn't found in the boundary data for position Member of the Senate of Kenya (Q18555726)
+WARNING: the district West Pokot County (Q590860) wasn't found in the boundary data for position Member of the Senate of Kenya (Q18555726)
 WARNING: the district Homa Bay County (Q1625834) wasn't found in the boundary data for position Member of the Senate of Kenya (Q18555726)
 WARNING: the district Muranga County (Q1781723) wasn't found in the boundary data for position Member of the Senate of Kenya (Q18555726)
 WARNING: the district Nairobi County (Q3335223) wasn't found in the boundary data for position Member of the Senate of Kenya (Q18555726)
